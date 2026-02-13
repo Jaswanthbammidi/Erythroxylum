@@ -15,3 +15,11 @@ git commit
 
 "your message"
 → The description of what changes you made.
+
+COnfigiure :
+git config --global user.email "vbammidi@gitam.in"
+git config --global user.name "Jaswanthbammidi"
+
+to link local git to remote github.
+
+commit is used to save locally but why we need to 
