@@ -1,0 +1,25 @@
+GIT INIT : it creates an new, empty repository in local directory to track all files git commands(this .git stores all the metadata, history, configurations, and objects necessary for version control)
+yaml file should be placed in .git/workforce because github runs the pipe lines under the workflows folder
+First we need to create a mster branch or else it will automatically  creates
+
+
+git add .:   stages all modified and new files so they can be included in the next commit. It updates the Git index but does not create a commit or permanent metadata yet.
+
+git commit -m "" :
+
+git commit
+→ Creates a snapshot of the staged files.
+
+-m
+→ Means message.
+
+"your message"
+→ The description of what changes you made.
+
+COnfigiure :
+git config --global user.email "vbammidi@gitam.in"
+git config --global user.name "Jaswanthbammidi"
+
+to link local git to remote github.
+
+commit is used to save locally but why we need to 
